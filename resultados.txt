@@ -1,0 +1,1666 @@
+[
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:53:09"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "4",
+"candidato": "14",
+"rejeita": [0, 4, 5, 10, 11],
+"hora": "28/09/2018 10:58:30"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "1",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:01:03"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "1",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:03:10"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "3",
+"candidato": "9",
+"rejeita": [4],
+"hora": "28/09/2018 11:09:06"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [0, 4, 5, 11],
+"hora": "28/09/2018 11:14:53"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:15:36"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4, 5],
+"hora": "28/09/2018 11:19:48"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "2",
+"candidato": "13",
+"rejeita": [8],
+"hora": "28/09/2018 11:21:03"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "4",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:22:34"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "0",
+"candidato": "8",
+"rejeita": [2, 4],
+"hora": "28/09/2018 11:23:54"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "2",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:29:07"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:32:14"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "2",
+"candidato": "14",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:33:49"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "4",
+"candidato": "13",
+"rejeita": [14],
+"hora": "28/09/2018 11:34:28"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "4",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:36:30"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "1",
+"candidato": "9",
+"rejeita": [8],
+"hora": "28/09/2018 11:39:35"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "2",
+"candidato": "9",
+"rejeita": [4],
+"hora": "28/09/2018 11:41:28"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "5",
+"candidato": "9",
+"rejeita": [2, 4],
+"hora": "28/09/2018 11:41:52"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:44:09"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:50:56"
+},
+{
+"pesquisador": "Felipe",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:53:42"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4, 5, 7],
+"hora": "28/09/2018 11:54:45"
+},
+{
+"pesquisador": "Felipe",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [2, 4, 11],
+"hora": "28/09/2018 11:57:04"
+},
+{
+"pesquisador": "Edson",
+"genero": "1",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:53:37"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:54:57"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "5",
+"candidato": "9",
+"rejeita": [4],
+"hora": "28/09/2018 10:56:14"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [14],
+"hora": "28/09/2018 10:58:40"
+},
+{
+"pesquisador": "Edson",
+"genero": "1",
+"classe": "5",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:02:10"
+},
+{
+"pesquisador": "Edson",
+"genero": "1",
+"classe": "5",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:02:53"
+},
+{
+"pesquisador": "Edson",
+"genero": "1",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:03:48"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "3",
+"candidato": "2",
+"rejeita": [8],
+"hora": "28/09/2018 11:04:42"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [2],
+"hora": "28/09/2018 11:07:19"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "5",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:11:47"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:14:35"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:15:35"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [2, 4, 7],
+"hora": "28/09/2018 11:16:32"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "5",
+"candidato": "4",
+"rejeita": [3],
+"hora": "28/09/2018 11:19:28"
+},
+{
+"pesquisador": "Edson",
+"genero": "0",
+"classe": "1",
+"candidato": "8",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 11:27:01"
+},
+{
+"pesquisador": "Edson",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:28:38"
+},
+{
+"pesquisador": "Edson",
+"genero": "1",
+"classe": "3",
+"candidato": "14",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:29:42"
+},
+{
+"pesquisador": "Edson",
+"genero": "1",
+"classe": "5",
+"candidato": "13",
+"rejeita": [14],
+"hora": "28/09/2018 11:30:11"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [14],
+"hora": "28/09/2018 10:51:04"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:55:12"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [5],
+"hora": "28/09/2018 10:57:27"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "1",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:59:03"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "2",
+"candidato": "0",
+"rejeita": [4],
+"hora": "28/09/2018 11:00:21"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:03:33"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:04:46"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:06:01"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "4",
+"rejeita": [14],
+"hora": "28/09/2018 11:08:08"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "1",
+"classe": "3",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:10:43"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:12:29"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:13:33"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:16:28"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "5",
+"rejeita": [8],
+"hora": "28/09/2018 11:17:28"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:21:19"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:24:09"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:25:36"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:27:25"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "1",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:31:52"
+},
+{
+"pesquisador": "Anabeatriz",
+"genero": "0",
+"classe": "5",
+"candidato": "5",
+"rejeita": [4],
+"hora": "28/09/2018 11:32:50"
+},
+{
+"pesquisador": "Rafael",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:59:42"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:00:50"
+},
+{
+"pesquisador": "Rafael",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [5],
+"hora": "28/09/2018 11:01:57"
+},
+{
+"pesquisador": "Rafael",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:02:26"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:04:14"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "0",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:05:23"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:06:09"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:08:27"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:11:27"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:14:28"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "11",
+"rejeita": [8],
+"hora": "28/09/2018 11:16:11"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:17:18"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:23:20"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:23:33"
+},
+{
+"pesquisador": "Rafael",
+"genero": "0",
+"classe": "2",
+"candidato": "2",
+"rejeita": [8],
+"hora": "28/09/2018 11:24:39"
+},
+{
+"pesquisador": "Rafael",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:27:43"
+},
+{
+"pesquisador": "Rafael",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:30:46"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "4",
+"candidato": "5",
+"rejeita": [8],
+"hora": "28/09/2018 10:54:07"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 10:57:18"
+},
+{
+"pesquisador": "Estevan",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 11:02:46"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:04:37"
+},
+{
+"pesquisador": "Estevan",
+"genero": "1",
+"classe": "2",
+"candidato": "2",
+"rejeita": [4, 5],
+"hora": "28/09/2018 11:06:22"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4, 5, 6],
+"hora": "28/09/2018 11:07:27"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "4",
+"candidato": "8",
+"rejeita": [1, 2, 3, 4, 6, 7, 10, 11, 12],
+"hora": "28/09/2018 11:13:09"
+},
+{
+"pesquisador": "Estevan",
+"genero": "1",
+"classe": "4",
+"candidato": "9",
+"rejeita": [1, 2, 3, 4, 6, 7, 10, 11, 12],
+"hora": "28/09/2018 11:13:50"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 11:26:24"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "2",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:30:23"
+},
+{
+"pesquisador": "Estevan",
+"genero": "1",
+"classe": "2",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:30:48"
+},
+{
+"pesquisador": "Estevan",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:40:45"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "4",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 10:51:36"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 10:52:44"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "2",
+"candidato": "9",
+"rejeita": [4, 8],
+"hora": "28/09/2018 10:53:37"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "13",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+"hora": "28/09/2018 10:57:26"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [14],
+"hora": "28/09/2018 10:59:12"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:00:16"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:03:59"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:05:11"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 11:06:14"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:07:52"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:12:39"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:13:35"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:14:13"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:16:10"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:17:35"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:20:48"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:21:53"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [14],
+"hora": "28/09/2018 11:24:39"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:25:49"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "11",
+"rejeita": [],
+"hora": "28/09/2018 11:26:07"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "5",
+"candidato": "13",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+"hora": "28/09/2018 11:26:52"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "4",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:27:31"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:31:05"
+},
+{
+"pesquisador": "Giovanni",
+"genero": "1",
+"classe": "4",
+"candidato": "13",
+"rejeita": [8],
+"hora": "28/09/2018 11:31:46"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4, 10],
+"hora": "28/09/2018 10:56:14"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "3",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 10:57:23"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:58:46"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:00:45"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:01:21"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:04:16"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "1",
+"candidato": "5",
+"rejeita": [4],
+"hora": "28/09/2018 11:06:42"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "3",
+"candidato": "14",
+"rejeita": [4, 5],
+"hora": "28/09/2018 11:08:18"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "3",
+"candidato": "9",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:10:35"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [],
+"hora": "28/09/2018 11:11:26"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4, 5, 11],
+"hora": "28/09/2018 11:17:14"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [],
+"hora": "28/09/2018 11:18:35"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "4",
+"candidato": "14",
+"rejeita": [2, 4, 5, 8],
+"hora": "28/09/2018 11:22:59"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [],
+"hora": "28/09/2018 11:23:33"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [2, 4],
+"hora": "28/09/2018 11:25:12"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:49:57"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "1",
+"classe": "5",
+"candidato": "5",
+"rejeita": [4],
+"hora": "28/09/2018 11:51:59"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "3",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:54:20"
+},
+{
+"pesquisador": "Rafaela",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:57:32"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "0",
+"classe": "2",
+"candidato": "9",
+"rejeita": [1, 4, 8],
+"hora": "27/09/2018 11:46:05"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 10:55:10"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 10:59:40"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "1",
+"classe": "1",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:01:15"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:04:47"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "1",
+"classe": "2",
+"candidato": "9",
+"rejeita": [2, 4, 5, 6, 11],
+"hora": "28/09/2018 11:08:20"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:11:11"
+},
+{
+"pesquisador": "Leonardo",
+"genero": "0",
+"classe": "1",
+"candidato": "9",
+"rejeita": [4],
+"hora": "28/09/2018 11:26:20"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "9",
+"rejeita": [1, 4, 8, 12],
+"hora": "27/09/2018 11:29:25"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "4",
+"candidato": "14",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 10:47:08"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:52:35"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 10:54:32"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [],
+"hora": "28/09/2018 10:56:49"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [2, 4],
+"hora": "28/09/2018 10:57:48"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:59:41"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:59:51"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "2",
+"rejeita": [6, 12],
+"hora": "28/09/2018 11:00:36"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:01:38"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "5",
+"candidato": "2",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:02:36"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 11:03:56"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "7",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:04:21"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 11:06:59"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "5",
+"candidato": "11",
+"rejeita": [4],
+"hora": "28/09/2018 11:08:18"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "13",
+"rejeita": [],
+"hora": "28/09/2018 11:12:06"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4, 6, 11],
+"hora": "28/09/2018 11:14:30"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [],
+"hora": "28/09/2018 11:16:15"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [2, 4, 7, 11],
+"hora": "28/09/2018 11:24:31"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "3",
+"candidato": "13",
+"rejeita": [4],
+"hora": "28/09/2018 11:27:52"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "3",
+"candidato": "11",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:30:49"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:31:53"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "3",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:33:25"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "3",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:33:45"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "3",
+"candidato": "5",
+"rejeita": [4],
+"hora": "28/09/2018 11:34:58"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "0",
+"candidato": "8",
+"rejeita": [2, 6],
+"hora": "28/09/2018 11:39:05"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "1",
+"candidato": "2",
+"rejeita": [8],
+"hora": "28/09/2018 11:42:41"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 11:43:16"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 11:50:45"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "5",
+"candidato": "13",
+"rejeita": [1, 3, 8, 12],
+"hora": "28/09/2018 11:57:27"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "9",
+"rejeita": [2, 4],
+"hora": "28/09/2018 15:02:12"
+},
+{
+"pesquisador": "Bruna",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [4, 8],
+"hora": "28/09/2018 15:02:56"
+},
+{
+"pesquisador": "Bruna",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [],
+"hora": "28/09/2018 15:03:11"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "4",
+"candidato": "1",
+"rejeita": [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+"hora": "27/09/2018 11:44:20"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "5",
+"candidato": "1",
+"rejeita": [14],
+"hora": "27/09/2018 11:45:24"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 10:54:18"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [5],
+"hora": "28/09/2018 10:58:36"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "4",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:06:02"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "4",
+"candidato": "4",
+"rejeita": [8],
+"hora": "28/09/2018 11:07:51"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:11:17"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "3",
+"candidato": "0",
+"rejeita": [2],
+"hora": "28/09/2018 11:16:32"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:21:28"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "5",
+"candidato": "14",
+"rejeita": [8],
+"hora": "28/09/2018 11:22:36"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "1",
+"candidato": "14",
+"rejeita": [8, 11],
+"hora": "28/09/2018 11:30:04"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "5",
+"candidato": "11",
+"rejeita": [11],
+"hora": "28/09/2018 11:30:22"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:34:44"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "2",
+"rejeita": [8],
+"hora": "28/09/2018 11:48:05"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [4],
+"hora": "28/09/2018 11:49:09"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:49:32"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:49:46"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "14",
+"rejeita": [],
+"hora": "28/09/2018 11:50:05"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "5",
+"candidato": "2",
+"rejeita": [6],
+"hora": "28/09/2018 11:51:15"
+},
+{
+"pesquisador": "murilo",
+"genero": "1",
+"classe": "2",
+"candidato": "8",
+"rejeita": [5, 6],
+"hora": "28/09/2018 12:05:28"
+},
+{
+"pesquisador": "murilo",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [6],
+"hora": "28/09/2018 12:05:59"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "1",
+"classe": "3",
+"candidato": "9",
+"rejeita": [4],
+"hora": "27/09/2018 11:36:02"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "0",
+"classe": "1",
+"candidato": "8",
+"rejeita": [2, 4, 12],
+"hora": "28/09/2018 10:53:04"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "1",
+"classe": "4",
+"candidato": "11",
+"rejeita": [8],
+"hora": "28/09/2018 10:56:53"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "0",
+"classe": "3",
+"candidato": "2",
+"rejeita": [5, 8, 9],
+"hora": "28/09/2018 10:58:35"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "1",
+"classe": "5",
+"candidato": "13",
+"rejeita": [8],
+"hora": "28/09/2018 11:01:19"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "1",
+"classe": "4",
+"candidato": "14",
+"rejeita": [4, 8],
+"hora": "28/09/2018 11:03:31"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "0",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 11:05:56"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "0",
+"classe": "2",
+"candidato": "8",
+"rejeita": [4, 11],
+"hora": "28/09/2018 11:07:11"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "0",
+"classe": "5",
+"candidato": "5",
+"rejeita": [8],
+"hora": "28/09/2018 11:09:39"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "1",
+"classe": "5",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:11:51"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "1",
+"classe": "3",
+"candidato": "8",
+"rejeita": [4],
+"hora": "28/09/2018 11:17:30"
+},
+{
+"pesquisador": "MICHEL",
+"genero": "0",
+"classe": "5",
+"candidato": "8",
+"rejeita": [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12],
+"hora": "28/09/2018 11:19:44"
+}
+]
