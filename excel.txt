@@ -1,0 +1,208 @@
+Jair Bolsonaro;Feminino;C;Felipe;28/09/2018 10:53:09
+Não sabe/Não quis responder;Masculino;E;Felipe;28/09/2018 10:58:30
+Não sabe/Não quis responder;Masculino;B;Felipe;28/09/2018 11:01:03
+Jair Bolsonaro;Feminino;B;Felipe;28/09/2018 11:03:10
+João Amoedo;Feminino;D;Felipe;28/09/2018 11:09:06
+Jair Bolsonaro;Masculino;D;Felipe;28/09/2018 11:14:53
+Jair Bolsonaro;Feminino;N/A;Felipe;28/09/2018 11:15:36
+Jair Bolsonaro;Masculino;C;Felipe;28/09/2018 11:19:48
+Branco/Nulo;Feminino;C;Felipe;28/09/2018 11:21:03
+Não sabe/Não quis responder;Masculino;E;Felipe;28/09/2018 11:22:34
+Jair Bolsonaro;Feminino;A;Felipe;28/09/2018 11:23:54
+Não sabe/Não quis responder;Feminino;C;Felipe;28/09/2018 11:29:07
+Jair Bolsonaro;Masculino;C;Felipe;28/09/2018 11:32:14
+Não sabe/Não quis responder;Masculino;C;Felipe;28/09/2018 11:33:49
+Branco/Nulo;Feminino;E;Felipe;28/09/2018 11:34:28
+Não sabe/Não quis responder;Masculino;E;Felipe;28/09/2018 11:36:30
+João Amoedo;Feminino;B;Felipe;28/09/2018 11:39:35
+João Amoedo;Feminino;C;Felipe;28/09/2018 11:41:28
+João Amoedo;Feminino;N/A;Felipe;28/09/2018 11:41:52
+Jair Bolsonaro;Feminino;C;Felipe;28/09/2018 11:44:09
+Jair Bolsonaro;Feminino;N/A;Felipe;28/09/2018 11:50:56
+Não sabe/Não quis responder;Feminino;E;Felipe;28/09/2018 11:53:42
+Jair Bolsonaro;Masculino;E;Felipe;28/09/2018 11:54:45
+Jair Bolsonaro;Masculino;N/A;Felipe;28/09/2018 11:57:04
+Jair Bolsonaro;Feminino;D;Edson;28/09/2018 10:53:37
+Jair Bolsonaro;Masculino;E;Edson;28/09/2018 10:54:57
+João Amoedo;Masculino;N/A;Edson;28/09/2018 10:56:14
+Jair Bolsonaro;Masculino;N/A;Edson;28/09/2018 10:58:40
+Fernando Haddad;Feminino;N/A;Edson;28/09/2018 11:02:10
+Fernando Haddad;Feminino;N/A;Edson;28/09/2018 11:02:53
+Jair Bolsonaro;Feminino;E;Edson;28/09/2018 11:03:48
+Ciro Gomes;Masculino;D;Edson;28/09/2018 11:04:42
+Jair Bolsonaro;Masculino;N/A;Edson;28/09/2018 11:07:19
+Fernando Haddad;Masculino;N/A;Edson;28/09/2018 11:11:47
+Não sabe/Não quis responder;Masculino;N/A;Edson;28/09/2018 11:14:35
+Jair Bolsonaro;Masculino;C;Edson;28/09/2018 11:15:35
+Jair Bolsonaro;Masculino;D;Edson;28/09/2018 11:16:32
+Fernando Haddad;Masculino;N/A;Edson;28/09/2018 11:19:28
+Jair Bolsonaro;Masculino;B;Edson;28/09/2018 11:27:01
+Jair Bolsonaro;Feminino;N/A;Edson;28/09/2018 11:28:38
+Não sabe/Não quis responder;Feminino;D;Edson;28/09/2018 11:29:42
+Branco/Nulo;Feminino;N/A;Edson;28/09/2018 11:30:11
+Jair Bolsonaro;Masculino;N/A;Anabeatriz;28/09/2018 10:51:04
+Jair Bolsonaro;Feminino;N/A;Anabeatriz;28/09/2018 10:55:12
+Jair Bolsonaro;Masculino;N/A;Anabeatriz;28/09/2018 10:57:27
+Jair Bolsonaro;Feminino;D;Anabeatriz;28/09/2018 10:59:03
+Álvaro Dias;Masculino;C;Anabeatriz;28/09/2018 11:00:21
+Jair Bolsonaro;Masculino;N/A;Anabeatriz;28/09/2018 11:03:33
+Jair Bolsonaro;Masculino;N/A;Anabeatriz;28/09/2018 11:04:46
+Jair Bolsonaro;Masculino;E;Anabeatriz;28/09/2018 11:06:01
+Fernando Haddad;Masculino;N/A;Anabeatriz;28/09/2018 11:08:08
+Não sabe/Não quis responder;Feminino;D;Anabeatriz;28/09/2018 11:10:43
+Jair Bolsonaro;Masculino;N/A;Anabeatriz;28/09/2018 11:12:29
+Não sabe/Não quis responder;Feminino;N/A;Anabeatriz;28/09/2018 11:13:33
+Jair Bolsonaro;Feminino;N/A;Anabeatriz;28/09/2018 11:16:28
+Geraldo Alckmin;Masculino;N/A;Anabeatriz;28/09/2018 11:17:28
+Jair Bolsonaro;Masculino;C;Anabeatriz;28/09/2018 11:21:19
+Fernando Haddad;Masculino;N/A;Anabeatriz;28/09/2018 11:24:09
+Não sabe/Não quis responder;Feminino;E;Anabeatriz;28/09/2018 11:25:36
+Não sabe/Não quis responder;Masculino;N/A;Anabeatriz;28/09/2018 11:27:25
+Fernando Haddad;Masculino;B;Anabeatriz;28/09/2018 11:31:52
+Geraldo Alckmin;Masculino;N/A;Anabeatriz;28/09/2018 11:32:50
+Jair Bolsonaro;Masculino;N/A;Rafael;28/09/2018 10:59:42
+Não sabe/Não quis responder;Feminino;N/A;Rafael;28/09/2018 11:00:50
+Jair Bolsonaro;Masculino;D;Rafael;28/09/2018 11:01:57
+Jair Bolsonaro;Masculino;N/A;Rafael;28/09/2018 11:02:26
+Jair Bolsonaro;Feminino;N/A;Rafael;28/09/2018 11:04:14
+Jair Bolsonaro;Feminino;A;Rafael;28/09/2018 11:05:23
+Não sabe/Não quis responder;Feminino;N/A;Rafael;28/09/2018 11:06:09
+Não sabe/Não quis responder;Feminino;N/A;Rafael;28/09/2018 11:08:27
+Não sabe/Não quis responder;Feminino;N/A;Rafael;28/09/2018 11:11:27
+Não sabe/Não quis responder;Feminino;N/A;Rafael;28/09/2018 11:14:28
+Marina Silva;Feminino;N/A;Rafael;28/09/2018 11:16:11
+Jair Bolsonaro;Feminino;E;Rafael;28/09/2018 11:17:18
+Não sabe/Não quis responder;Feminino;E;Rafael;28/09/2018 11:23:20
+Não sabe/Não quis responder;Feminino;E;Rafael;28/09/2018 11:23:33
+Ciro Gomes;Masculino;C;Rafael;28/09/2018 11:24:39
+Não sabe/Não quis responder;Feminino;N/A;Rafael;28/09/2018 11:27:43
+Não sabe/Não quis responder;Masculino;N/A;Rafael;28/09/2018 11:30:46
+Geraldo Alckmin;Masculino;E;Estevan;28/09/2018 10:54:07
+Jair Bolsonaro;Masculino;N/A;Estevan;28/09/2018 10:57:18
+Jair Bolsonaro;Feminino;N/A;Estevan;28/09/2018 11:02:46
+Jair Bolsonaro;Masculino;C;Estevan;28/09/2018 11:04:37
+Ciro Gomes;Feminino;C;Estevan;28/09/2018 11:06:22
+Jair Bolsonaro;Masculino;D;Estevan;28/09/2018 11:07:27
+Jair Bolsonaro;Masculino;E;Estevan;28/09/2018 11:13:09
+João Amoedo;Feminino;E;Estevan;28/09/2018 11:13:50
+Jair Bolsonaro;Masculino;D;Estevan;28/09/2018 11:26:24
+Não sabe/Não quis responder;Masculino;C;Estevan;28/09/2018 11:30:23
+Não sabe/Não quis responder;Feminino;C;Estevan;28/09/2018 11:30:48
+Jair Bolsonaro;Masculino;N/A;Estevan;28/09/2018 11:40:45
+Não sabe/Não quis responder;Masculino;E;Giovanni;28/09/2018 10:51:36
+Jair Bolsonaro;Masculino;N/A;Giovanni;28/09/2018 10:52:44
+João Amoedo;Feminino;C;Giovanni;28/09/2018 10:53:37
+Branco/Nulo;Feminino;N/A;Giovanni;28/09/2018 10:57:26
+Jair Bolsonaro;Masculino;N/A;Giovanni;28/09/2018 10:59:12
+Não sabe/Não quis responder;Feminino;N/A;Giovanni;28/09/2018 11:00:16
+Jair Bolsonaro;Feminino;N/A;Giovanni;28/09/2018 11:03:59
+Jair Bolsonaro;Feminino;N/A;Giovanni;28/09/2018 11:05:11
+Jair Bolsonaro;Masculino;N/A;Giovanni;28/09/2018 11:06:14
+Jair Bolsonaro;Masculino;C;Giovanni;28/09/2018 11:07:52
+Jair Bolsonaro;Feminino;N/A;Giovanni;28/09/2018 11:12:39
+Não sabe/Não quis responder;Feminino;E;Giovanni;28/09/2018 11:13:35
+Jair Bolsonaro;Masculino;N/A;Giovanni;28/09/2018 11:14:13
+Não sabe/Não quis responder;Feminino;N/A;Giovanni;28/09/2018 11:16:10
+Jair Bolsonaro;Masculino;E;Giovanni;28/09/2018 11:17:35
+Não sabe/Não quis responder;Feminino;E;Giovanni;28/09/2018 11:20:48
+Não sabe/Não quis responder;Masculino;N/A;Giovanni;28/09/2018 11:21:53
+Não sabe/Não quis responder;Masculino;N/A;Giovanni;28/09/2018 11:24:39
+Jair Bolsonaro;Masculino;C;Giovanni;28/09/2018 11:25:49
+Marina Silva;Feminino;N/A;Giovanni;28/09/2018 11:26:07
+Branco/Nulo;Feminino;N/A;Giovanni;28/09/2018 11:26:52
+Não sabe/Não quis responder;Masculino;E;Giovanni;28/09/2018 11:27:31
+Jair Bolsonaro;Masculino;D;Giovanni;28/09/2018 11:31:05
+Branco/Nulo;Feminino;E;Giovanni;28/09/2018 11:31:46
+Jair Bolsonaro;Masculino;D;Rafaela;28/09/2018 10:56:14
+Não sabe/Não quis responder;Feminino;D;Rafaela;28/09/2018 10:57:23
+Jair Bolsonaro;Feminino;N/A;Rafaela;28/09/2018 10:58:46
+Não sabe/Não quis responder;Masculino;N/A;Rafaela;28/09/2018 11:00:45
+Não sabe/Não quis responder;Feminino;E;Rafaela;28/09/2018 11:01:21
+Jair Bolsonaro;Feminino;D;Rafaela;28/09/2018 11:04:16
+Geraldo Alckmin;Masculino;B;Rafaela;28/09/2018 11:06:42
+Não sabe/Não quis responder;Feminino;D;Rafaela;28/09/2018 11:08:18
+João Amoedo;Feminino;D;Rafaela;28/09/2018 11:10:35
+Não sabe/Não quis responder;Masculino;N/A;Rafaela;28/09/2018 11:11:26
+Jair Bolsonaro;Masculino;C;Rafaela;28/09/2018 11:17:14
+Não sabe/Não quis responder;Feminino;E;Rafaela;28/09/2018 11:18:35
+Não sabe/Não quis responder;Masculino;E;Rafaela;28/09/2018 11:22:59
+Não sabe/Não quis responder;Feminino;N/A;Rafaela;28/09/2018 11:23:33
+Jair Bolsonaro;Masculino;C;Rafaela;28/09/2018 11:25:12
+Não sabe/Não quis responder;Feminino;E;Rafaela;28/09/2018 11:49:57
+Geraldo Alckmin;Feminino;N/A;Rafaela;28/09/2018 11:51:59
+Não sabe/Não quis responder;Masculino;D;Rafaela;28/09/2018 11:54:20
+Jair Bolsonaro;Masculino;D;Rafaela;28/09/2018 11:57:32
+João Amoedo;Masculino;C;Leonardo;27/09/2018 11:46:05
+Jair Bolsonaro;Feminino;N/A;Leonardo;28/09/2018 10:55:10
+Não sabe/Não quis responder;Masculino;N/A;Leonardo;28/09/2018 10:59:40
+Jair Bolsonaro;Feminino;B;Leonardo;28/09/2018 11:01:15
+Jair Bolsonaro;Feminino;N/A;Leonardo;28/09/2018 11:04:47
+João Amoedo;Feminino;C;Leonardo;28/09/2018 11:08:20
+Jair Bolsonaro;Feminino;N/A;Leonardo;28/09/2018 11:11:11
+João Amoedo;Masculino;B;Leonardo;28/09/2018 11:26:20
+João Amoedo;Feminino;E;Bruna;27/09/2018 11:29:25
+Não sabe/Não quis responder;Masculino;E;Bruna;28/09/2018 10:47:08
+Jair Bolsonaro;Masculino;D;Bruna;28/09/2018 10:52:35
+Jair Bolsonaro;Feminino;E;Bruna;28/09/2018 10:54:32
+Jair Bolsonaro;Feminino;N/A;Bruna;28/09/2018 10:56:49
+Jair Bolsonaro;Masculino;D;Bruna;28/09/2018 10:57:48
+Jair Bolsonaro;Masculino;N/A;Bruna;28/09/2018 10:59:41
+Jair Bolsonaro;Masculino;N/A;Bruna;28/09/2018 10:59:51
+Ciro Gomes;Masculino;N/A;Bruna;28/09/2018 11:00:36
+Jair Bolsonaro;Feminino;E;Bruna;28/09/2018 11:01:38
+Ciro Gomes;Feminino;N/A;Bruna;28/09/2018 11:02:36
+Jair Bolsonaro;Masculino;N/A;Bruna;28/09/2018 11:03:56
+Henrique Meirelles;Masculino;N/A;Bruna;28/09/2018 11:04:21
+Jair Bolsonaro;Feminino;E;Bruna;28/09/2018 11:06:59
+Marina Silva;Feminino;N/A;Bruna;28/09/2018 11:08:18
+Branco/Nulo;Feminino;E;Bruna;28/09/2018 11:12:06
+Jair Bolsonaro;Masculino;C;Bruna;28/09/2018 11:14:30
+Não sabe/Não quis responder;Masculino;N/A;Bruna;28/09/2018 11:16:15
+Jair Bolsonaro;Feminino;N/A;Bruna;28/09/2018 11:24:31
+Branco/Nulo;Feminino;D;Bruna;28/09/2018 11:27:52
+Marina Silva;Masculino;D;Bruna;28/09/2018 11:30:49
+Jair Bolsonaro;Feminino;E;Bruna;28/09/2018 11:31:53
+Fernando Haddad;Feminino;D;Bruna;28/09/2018 11:33:25
+Fernando Haddad;Masculino;D;Bruna;28/09/2018 11:33:45
+Geraldo Alckmin;Feminino;D;Bruna;28/09/2018 11:34:58
+Jair Bolsonaro;Masculino;A;Bruna;28/09/2018 11:39:05
+Ciro Gomes;Feminino;B;Bruna;28/09/2018 11:42:41
+Jair Bolsonaro;Feminino;E;Bruna;28/09/2018 11:43:16
+Jair Bolsonaro;Feminino;D;Bruna;28/09/2018 11:50:45
+Branco/Nulo;Feminino;N/A;Bruna;28/09/2018 11:57:27
+João Amoedo;Masculino;N/A;Bruna;28/09/2018 15:02:12
+Não sabe/Não quis responder;Feminino;E;Bruna;28/09/2018 15:02:56
+Não sabe/Não quis responder;Masculino;N/A;Bruna;28/09/2018 15:03:11
+Cabo Daciolo;Feminino;E;murilo;27/09/2018 11:44:20
+Cabo Daciolo;Feminino;N/A;murilo;27/09/2018 11:45:24
+Jair Bolsonaro;Masculino;N/A;murilo;28/09/2018 10:54:18
+Jair Bolsonaro;Feminino;N/A;murilo;28/09/2018 10:58:36
+Jair Bolsonaro;Masculino;E;murilo;28/09/2018 11:06:02
+Fernando Haddad;Masculino;E;murilo;28/09/2018 11:07:51
+Jair Bolsonaro;Masculino;N/A;murilo;28/09/2018 11:11:17
+Álvaro Dias;Masculino;D;murilo;28/09/2018 11:16:32
+Jair Bolsonaro;Masculino;N/A;murilo;28/09/2018 11:21:28
+Não sabe/Não quis responder;Feminino;N/A;murilo;28/09/2018 11:22:36
+Não sabe/Não quis responder;Masculino;B;murilo;28/09/2018 11:30:04
+Marina Silva;Feminino;N/A;murilo;28/09/2018 11:30:22
+Jair Bolsonaro;Masculino;N/A;murilo;28/09/2018 11:34:44
+Ciro Gomes;Masculino;N/A;murilo;28/09/2018 11:48:05
+Não sabe/Não quis responder;Masculino;N/A;murilo;28/09/2018 11:49:09
+Jair Bolsonaro;Feminino;N/A;murilo;28/09/2018 11:49:32
+Jair Bolsonaro;Feminino;N/A;murilo;28/09/2018 11:49:46
+Não sabe/Não quis responder;Masculino;N/A;murilo;28/09/2018 11:50:05
+Ciro Gomes;Feminino;N/A;murilo;28/09/2018 11:51:15
+Jair Bolsonaro;Feminino;C;murilo;28/09/2018 12:05:28
+Jair Bolsonaro;Masculino;N/A;murilo;28/09/2018 12:05:59
+João Amoedo;Feminino;D;MICHEL;27/09/2018 11:36:02
+Jair Bolsonaro;Masculino;B;MICHEL;28/09/2018 10:53:04
+Marina Silva;Feminino;E;MICHEL;28/09/2018 10:56:53
+Ciro Gomes;Masculino;D;MICHEL;28/09/2018 10:58:35
+Branco/Nulo;Feminino;N/A;MICHEL;28/09/2018 11:01:19
+Não sabe/Não quis responder;Feminino;E;MICHEL;28/09/2018 11:03:31
+Jair Bolsonaro;Masculino;D;MICHEL;28/09/2018 11:05:56
+Jair Bolsonaro;Masculino;C;MICHEL;28/09/2018 11:07:11
+Geraldo Alckmin;Masculino;N/A;MICHEL;28/09/2018 11:09:39
+Jair Bolsonaro;Feminino;N/A;MICHEL;28/09/2018 11:11:51
+Jair Bolsonaro;Feminino;D;MICHEL;28/09/2018 11:17:30
+Jair Bolsonaro;Masculino;N/A;MICHEL;28/09/2018 11:19:44
